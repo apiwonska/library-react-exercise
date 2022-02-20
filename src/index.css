@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-image: url('./assets/library.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
